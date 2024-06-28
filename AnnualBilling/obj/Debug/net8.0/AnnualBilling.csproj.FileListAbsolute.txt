@@ -1,0 +1,14 @@
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\bin\Debug\net8.0\AnnualBilling.exe
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\bin\Debug\net8.0\AnnualBilling.deps.json
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\bin\Debug\net8.0\AnnualBilling.runtimeconfig.json
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\bin\Debug\net8.0\AnnualBilling.dll
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\bin\Debug\net8.0\AnnualBilling.pdb
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\obj\Debug\net8.0\AnnualBilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\obj\Debug\net8.0\AnnualBilling.AssemblyInfoInputs.cache
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\obj\Debug\net8.0\AnnualBilling.AssemblyInfo.cs
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\obj\Debug\net8.0\AnnualBilling.csproj.CoreCompileInputs.cache
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\obj\Debug\net8.0\AnnualBilling.dll
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\obj\Debug\net8.0\refint\AnnualBilling.dll
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\obj\Debug\net8.0\AnnualBilling.pdb
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\obj\Debug\net8.0\AnnualBilling.genruntimeconfig.cache
+C:\Users\deuna\Desktop\Course\AnnualBilling\AnnualBilling\obj\Debug\net8.0\ref\AnnualBilling.dll
